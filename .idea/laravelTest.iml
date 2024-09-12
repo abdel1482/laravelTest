@@ -116,6 +116,8 @@
       <excludeFolder url="file://$MODULE_DIR$/tersea/vendor/vlucas/phpdotenv" />
       <excludeFolder url="file://$MODULE_DIR$/tersea/vendor/voku/portable-ascii" />
       <excludeFolder url="file://$MODULE_DIR$/tersea/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/laradock" />
+      <excludeFolder url="file://$MODULE_DIR$/seater/vendor" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
